@@ -2,6 +2,8 @@
 
 A simple example project to check out [[https://github.com/iced-rs/iced][GitHub - iced-rs/iced: A cross-platform GUI library for Rust, inspired by Elm]]
 
+https://github.com/floscr/iced-progress-bar-timer/assets/1898374/e95d708f-6d66-48ad-a624-652d1d69a50e
+
 Run it like this:
 
 #+begin_src shell
