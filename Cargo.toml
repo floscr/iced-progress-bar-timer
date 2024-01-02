@@ -1,0 +1,9 @@
+[package]
+name = "sample-flake-rust"
+version = "0.1.0"
+authors = ["Nicolas Berbiche <nic.berbiche@gmail.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
+iced = { version = "0.10.0", features = ["canvas", "tokio", "debug"] }
